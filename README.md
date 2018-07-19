@@ -25,7 +25,7 @@ If you have another template, you must copy the files inside your new template.
 
 Implementation:
 
-- Menu design / Products description
+- Menu design / Products Listing
 - Activate the module
 
 - Copy the modules_products_listing_description.json into ClicShopping/Work/Cache/Github (manual installation)
