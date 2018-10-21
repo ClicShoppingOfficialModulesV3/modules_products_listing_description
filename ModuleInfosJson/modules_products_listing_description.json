@@ -1,9 +1,9 @@
 {
   "title":			"modules_products_listing_description",
   "type":           "modules_products_listing",
-  "vendor":			"modules_products_listing",
+  "vendor":			"ClicShopping",
   "is_free":   "no",
-  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/59-modules-products-listing-description-categories/",
+  "website_link_to_sell" : "",
   "version":			1.0,
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
